@@ -9,8 +9,15 @@ all_posts = [
         "author": "Stefanos Pizanias",
         "date": date(2022, 7, 22),
         "title": "Mountain Hiking",
-        "excerpt": "There is nothing like the views you get when hiking in the mountains!",
-        "content": "HUZZAAAA HUZZZAAAAA HUZZZAAAAA1"
+        "excerpt": "There is nothing like the views you get when flying an airplane!",
+        "content": """    
+        Professor Henry Jones: [accidentally shoots their own plane with the machine gun]
+
+        Indiana Jones: Dad, are we hit?
+
+        Professor Henry Jones: More or less. Son, I'm sorry. They got us.
+
+        """
     },
     {
         "slug": "programming-is-fun",
@@ -23,14 +30,6 @@ all_posts = [
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis nobis
           aperiam est praesentium, quos iste consequuntur omnis exercitationem quam
           velit labore vero culpa ad mollitia? Quis architecto ipsam nemo. Odio.
-
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis nobis
-          aperiam est praesentium, quos iste consequuntur omnis exercitationem quam
-          velit labore vero culpa ad mollitia? Quis architecto ipsam nemo. Odio.
-
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis nobis
-          aperiam est praesentium, quos iste consequuntur omnis exercitationem quam
-          velit labore vero culpa ad mollitia? Quis architecto ipsam nemo. Odio.
         """
     },
     {
@@ -38,20 +37,18 @@ all_posts = [
         "image": "Holy-Grail.jpg",
         "author": "Stefanos Pizanias",
         "date": date(2022, 6, 5),
-        "title": "Nature At Its Best",
+        "title": "Python At Its Best",
         "excerpt": "Nature is amazing! The amount of inspiration I get when walking in nature is incredible!",
         "content": """
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis nobis
-          aperiam est praesentium, quos iste consequuntur omnis exercitationem quam
-          velit labore vero culpa ad mollitia? Quis architecto ipsam nemo. Odio.
-
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis nobis
-          aperiam est praesentium, quos iste consequuntur omnis exercitationem quam
-          velit labore vero culpa ad mollitia? Quis architecto ipsam nemo. Odio.
-
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis nobis
-          aperiam est praesentium, quos iste consequuntur omnis exercitationem quam
-          velit labore vero culpa ad mollitia? Quis architecto ipsam nemo. Odio.
+          [singing] 
+          We're knights of the Round Table, we dance whene'er we're able. 
+          We do routines and chorus scenes with footwork impec-cable, 
+          We dine well here in Camelot, we eat ham and jam and Spam a lot. 
+          / We're knights of the Round Table, our shows are for-mi-dable. But many times we're given rhymes that are 
+          quite un-sing-able, We're opera mad in Camelot, we sing from the diaphragm a lot. 
+          / In war we're tough and able, Quite in-de-fa-ti-gable. Between our quests we sequin vests 
+          and impersonate Clark Gable 
+          / It's a busy life in Camelot
         """
     }
 ]
